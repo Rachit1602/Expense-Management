@@ -77,7 +77,7 @@ Support attaching receipts or other relevant documents to expense entries.
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Rachit1602/Expense-Management
 ```
 
 Go to the project directory
